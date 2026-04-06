@@ -1,4 +1,4 @@
-# Movie-recommendation-system
+# movie-recommendation-system
 This project reproduces the experiments from the paper:
 
 "Attention xxxxxxxx xxxxxx"
