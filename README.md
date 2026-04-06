@@ -7,8 +7,9 @@ xxxxxcc et al., 2017
 The goal of this repository is educational and research exploration.
 All credit for the original method belongs to the authors.
 
-# Project Title:
-Movie Recommendation System using Collaborative Filtering
+# Project Title 
+Comparative Study of Recommendation Algorithms
+on the MovieLens Dataset
 
 # Goal:
 Recommend movies based on user preferences and identify which algorithm performs best.
